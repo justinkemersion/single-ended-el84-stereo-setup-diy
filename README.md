@@ -2,7 +2,7 @@ $1,000 Single-Ended EL84 Stereo Setup
 =============================================
 
 **Version**: 1.1\
-**Date**: May 22, 2025\
+**Date**: March 10, 2026\
 **Author**: AI & Future Self
 
 Purpose
