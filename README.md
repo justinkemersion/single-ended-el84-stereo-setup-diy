@@ -5,6 +5,8 @@ $1,000 Single-Ended EL84 Stereo Setup
 **Date**: March 10, 2026\
 **Author**: AI & Future Self
 
+> For the long-term, no-compromise upgrade path, see the **A-Grade "Analog Nirvana" roadmap** in `README_AGrade_Roadmap.md`.
+
 Purpose
 -------
 
